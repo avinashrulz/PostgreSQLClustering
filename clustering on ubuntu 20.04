@@ -1,2 +1,18 @@
+Step 1:
 Install Oracle VirtualBox which is a powerful, cross-platform virtualization software
-Download Ubuntu 20.04 LTS server iso files for creating the virtual machines as required for this demo
+Steps to install virtual box:
+1. Download it from the official website from the below URL:
+https://www.virtualbox.org/wiki/Downloads
+2. Download the appropriate version according to your host operating system. VirtualBox hosts are available for Windows, OS X, linux and solaris systems
+3. After download, install the software package and it will be ready for use
+
+
+Step 2:
+1. Download Ubuntu 20.04 LTS server iso files for creating the virtual machines as required for this demo from the below URL:
+https://releases.ubuntu.com/20.04/
+
+
+Step 3:
+1. After successful download, create 2 VMs using the downloaded iso image from the previous step
+2. Open Oracle VirtualBox and select "New".
+3. Give an appropriate name to the VM, select type - Linux, version - Ubuntu (64-bit)
